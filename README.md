@@ -9,8 +9,6 @@
 
 Este curso introduce los conceptos fundamentales, herramientas computacionales y métodos estadísticos utilizados en la Ciencia de Datos. Combinando teoría y práctica, los estudiantes desarrollarán habilidades para explorar, modelar y comunicar información extraída de conjuntos de datos reales.
 
-El curso está orientado a estudiantes con formación sólida en estadística matemática e inferencia, y se enfoca en la implementación con Python utilizando editores como **Spyder** o **Code OSS** (no se usará Jupyter).
-
 ---
 
 ## 🗂 Estructura del curso
@@ -26,25 +24,13 @@ La evaluación se basará en tareas prácticas y un proyecto final. No se aplica
 
 ---
 
-## 📚 Materiales
-
-- 📄 Apuntes en PDF
-- 🐍 Scripts en Python (`.py`)
-- 📊 Visualizaciones y datasets
-- 📁 Proyecto final y rúbrica
-
-Todo el material se organizará en carpetas por unidad.
-
----
-
 ## 📦 Organización del repositorio
 
 ```plaintext
-📁 unidad1/
-📁 unidad2/
-📁 unidad3/
-📁 unidad4/
+📁 Diapositivas/
+📁 Intro_Python/
+📁 Tareas/
 📁 proyecto/
-📁 datasets/
+📁 Datasets/
 📄 README.md
 
